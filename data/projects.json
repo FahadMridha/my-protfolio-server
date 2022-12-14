@@ -1,0 +1,101 @@
+[
+  {
+    "id": "01",
+    "project_name": "Dream Bike",
+    "description": "Used Bike resale Site",
+    "short_points": [
+      "Used Bike selling website. Sellers can sell products or buyers can buy used Bike from here.",
+      "Handle user  authentication.",
+      "Also I create an admin panel. Here admin can remove any product and any buyer and seller "
+    ],
+    "long_points": [
+      "we have a dashboard system and you can see your activitys.",
+      "We have a admin route and admin can delete or verify users.",
+      "on time Payment System for bye any product",
+      "Single Page Application",
+      "user friendly UI"
+    ],
+    "image": "https://i.ibb.co/Pj5kgpd/dream-Bike.png",
+    "slider_image": [
+      {
+        "original": "https://i.ibb.co/kDWRnqT/Capture2.png"
+      },
+      {
+        "original": "https://i.ibb.co/zmcpFyV/Capture.png"
+      },
+      {
+        "original": "https://i.ibb.co/jMsZqNM/Capture1.png"
+      }
+    ],
+    "technology": "React.js, MongoDB, Firebase, Node js, Express js, Tailwind CSS.",
+    "live_site": "https://resale-product-76830.web.app/",
+    "github_client": "https://github.com/FahadMridha/dream-bike-cilent",
+    "github_server": "https://github.com/FahadMridha/dream-bike-server"
+  },
+  {
+    "id": "02",
+    "project_name": "Buy Fitness",
+    "description": "Service related website",
+    "short_points": [
+      "A simple service related website where users can show how many services are provided by the author.",
+      "Users can review on any services and other users can also show those reviews.",
+      "I use Firebase for authentication"
+    ],
+    "long_points": [
+      "more secure website your data won't be hacked from our website Our data come from DataBase so don't worry about your privacy",
+      "You can Create new services for me => You Can also delete your review",
+      "I have user node and express for create server",
+      "I use CRUD operation in this website",
+      "user friendly UI"
+    ],
+    "image": "https://i.ibb.co/z46wPmW/home.png",
+    "slider_image": [
+      {
+        "original": "https://i.ibb.co/z46wPmW/home.png"
+      },
+      {
+        "original": "https://i.ibb.co/dmC0Y74/Capture1.png"
+      },
+      {
+        "original": "https://i.ibb.co/zJ0n7wt/add-Service.png"
+      }
+    ],
+    "technology": "React.js, MongoDB, Node js Express js, Firebase, Bootstrap.",
+    "live_site": "https://service-review-8b4de.web.app/",
+    "github_client": "https://github.com/FahadMridha/service-review-client",
+    "github_server": "https://github.com/FahadMridha/dream-bike-server"
+  },
+  {
+    "id": "03",
+    "project_name": "Programming Cassroom",
+    "description": "Educational website",
+    "short_points": [
+      "A simple educational website. Where students can purchase courses and show the course details.",
+      "I use Firebase for authentication.",
+      "Users can download the course details PDF file and they can also purchase any course"
+    ],
+    "long_points": [
+      "In this website you can leran more thing buy purchese our courses ",
+      "You can learn more new things from here",
+      "Download PDF option for download course details",
+      "Single Page Application",
+      "user friendly UI"
+    ],
+    "image": "https://i.ibb.co/Vq38qRK/Capture.png",
+    "slider_image": [
+      {
+        "original": "https://i.ibb.co/Vq38qRK/Capture.png"
+      },
+      {
+        "original": "https://i.ibb.co/wS0K9np/Capture1.png"
+      },
+      {
+        "original": "https://i.ibb.co/GMTjWrG/detailes.png"
+      }
+    ],
+    "technology": "React.js, Firebase, Nodejs, Express js, Bootstrap",
+    "live_site": "https://classroom-d2773.web.app/",
+    "github_client": "https://github.com/FahadMridha/programming-classroom-client",
+    "github_server": "https://github.com/FahadMridha/programming-classroom-server"
+  }
+]
